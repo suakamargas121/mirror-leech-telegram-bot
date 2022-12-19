@@ -1,4 +1,4 @@
-FROM anasty17/mltb:latest
+FROM amirulandalib/mltb-alpine-docker:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
